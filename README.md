@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/status-stable-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/made%20with-PHP-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/payment-Tripay-orange?style=flat-square" />
-  <img src="https://img.shields.io/github/license/yourusername/metrounity-donasi?style=flat-square" />
+  <img src="https://img.shields.io/github/license/faqieehSamp-Donation?style=flat-square" />
 </p>
 
 ---
